@@ -1,0 +1,492 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VivoBook\\Desktop\\PetShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13A3E02A-D7AD-490B-A097-3022E335632F}|PetShop\\PetShop.csproj|c:\\users\\vivobook\\desktop\\petshop\\petshop\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A3E02A-D7AD-490B-A097-3022E335632F}|PetShop\\PetShop.csproj|solutionrelative:petshop\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A3E02A-D7AD-490B-A097-3022E335632F}|PetShop\\PetShop.csproj|c:\\users\\vivobook\\desktop\\petshop\\petshop\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A3E02A-D7AD-490B-A097-3022E335632F}|PetShop\\PetShop.csproj|solutionrelative:petshop\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A3E02A-D7AD-490B-A097-3022E335632F}|PetShop\\PetShop.csproj|c:\\users\\vivobook\\desktop\\petshop\\petshop\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A3E02A-D7AD-490B-A097-3022E335632F}|PetShop\\PetShop.csproj|solutionrelative:petshop\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A3E02A-D7AD-490B-A097-3022E335632F}|PetShop\\PetShop.csproj|c:\\users\\vivobook\\desktop\\petshop\\petshop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13A3E02A-D7AD-490B-A097-3022E335632F}|PetShop\\PetShop.csproj|solutionrelative:petshop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A3E02A-D7AD-490B-A097-3022E335632F}|PetShop\\PetShop.csproj|c:\\users\\vivobook\\desktop\\petshop\\petshop\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13A3E02A-D7AD-490B-A097-3022E335632F}|PetShop\\PetShop.csproj|solutionrelative:petshop\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A3E02A-D7AD-490B-A097-3022E335632F}|PetShop\\PetShop.csproj|c:\\users\\vivobook\\desktop\\petshop\\petshop\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13A3E02A-D7AD-490B-A097-3022E335632F}|PetShop\\PetShop.csproj|solutionrelative:petshop\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A3E02A-D7AD-490B-A097-3022E335632F}|PetShop\\PetShop.csproj|c:\\users\\vivobook\\desktop\\petshop\\petshop\\areas\\admin\\viewmodels\\adminloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A3E02A-D7AD-490B-A097-3022E335632F}|PetShop\\PetShop.csproj|solutionrelative:petshop\\areas\\admin\\viewmodels\\adminloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A3E02A-D7AD-490B-A097-3022E335632F}|PetShop\\PetShop.csproj|c:\\users\\vivobook\\desktop\\petshop\\petshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A3E02A-D7AD-490B-A097-3022E335632F}|PetShop\\PetShop.csproj|solutionrelative:petshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A3E02A-D7AD-490B-A097-3022E335632F}|PetShop\\PetShop.csproj|c:\\users\\vivobook\\desktop\\petshop\\petshop\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13A3E02A-D7AD-490B-A097-3022E335632F}|PetShop\\PetShop.csproj|solutionrelative:petshop\\areas\\admin\\views\\slider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A3E02A-D7AD-490B-A097-3022E335632F}|PetShop\\PetShop.csproj|c:\\users\\vivobook\\desktop\\petshop\\petshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A3E02A-D7AD-490B-A097-3022E335632F}|PetShop\\PetShop.csproj|solutionrelative:petshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A3E02A-D7AD-490B-A097-3022E335632F}|PetShop\\PetShop.csproj|c:\\users\\vivobook\\desktop\\petshop\\petshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13A3E02A-D7AD-490B-A097-3022E335632F}|PetShop\\PetShop.csproj|solutionrelative:petshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8CB6E9-1BFB-4732-873E-B0F4EB2E9706}|Business\\Business.csproj|c:\\users\\vivobook\\desktop\\petshop\\business\\services\\concretes\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8CB6E9-1BFB-4732-873E-B0F4EB2E9706}|Business\\Business.csproj|solutionrelative:business\\services\\concretes\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E5D5C0-FDF1-4637-8481-EA750D830466}|Data\\Data.csproj|c:\\users\\vivobook\\desktop\\petshop\\data\\reopostoryconcretes\\genericrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E5D5C0-FDF1-4637-8481-EA750D830466}|Data\\Data.csproj|solutionrelative:data\\reopostoryconcretes\\genericrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A3E02A-D7AD-490B-A097-3022E335632F}|PetShop\\PetShop.csproj|c:\\users\\vivobook\\desktop\\petshop\\petshop\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13A3E02A-D7AD-490B-A097-3022E335632F}|PetShop\\PetShop.csproj|solutionrelative:petshop\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A3E02A-D7AD-490B-A097-3022E335632F}|PetShop\\PetShop.csproj|c:\\users\\vivobook\\desktop\\petshop\\petshop\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13A3E02A-D7AD-490B-A097-3022E335632F}|PetShop\\PetShop.csproj|solutionrelative:petshop\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7F20A6-DD18-4731-85F8-3E93E4658336}|Core\\Core.csproj|c:\\users\\vivobook\\desktop\\petshop\\core\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7F20A6-DD18-4731-85F8-3E93E4658336}|Core\\Core.csproj|solutionrelative:core\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E5D5C0-FDF1-4637-8481-EA750D830466}|Data\\Data.csproj|c:\\users\\vivobook\\desktop\\petshop\\data\\migrations\\20240522055435_createappusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E5D5C0-FDF1-4637-8481-EA750D830466}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240522055435_createappusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A3E02A-D7AD-490B-A097-3022E335632F}|PetShop\\PetShop.csproj|c:\\users\\vivobook\\desktop\\petshop\\petshop\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13A3E02A-D7AD-490B-A097-3022E335632F}|PetShop\\PetShop.csproj|solutionrelative:petshop\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A3E02A-D7AD-490B-A097-3022E335632F}|PetShop\\PetShop.csproj|c:\\users\\vivobook\\desktop\\petshop\\petshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13A3E02A-D7AD-490B-A097-3022E335632F}|PetShop\\PetShop.csproj|solutionrelative:petshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8CB6E9-1BFB-4732-873E-B0F4EB2E9706}|Business\\Business.csproj|c:\\users\\vivobook\\desktop\\petshop\\business\\services\\abstarcts\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8CB6E9-1BFB-4732-873E-B0F4EB2E9706}|Business\\Business.csproj|solutionrelative:business\\services\\abstarcts\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A3E02A-D7AD-490B-A097-3022E335632F}|PetShop\\PetShop.csproj|c:\\users\\vivobook\\desktop\\petshop\\petshop\\petshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{13A3E02A-D7AD-490B-A097-3022E335632F}|PetShop\\PetShop.csproj|solutionrelative:petshop\\petshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E5D5C0-FDF1-4637-8481-EA750D830466}|Data\\Data.csproj|c:\\users\\vivobook\\desktop\\petshop\\data\\reopostoryconcretes\\sliderrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E5D5C0-FDF1-4637-8481-EA750D830466}|Data\\Data.csproj|solutionrelative:data\\reopostoryconcretes\\sliderrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8CB6E9-1BFB-4732-873E-B0F4EB2E9706}|Business\\Business.csproj|c:\\users\\vivobook\\desktop\\petshop\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BB8CB6E9-1BFB-4732-873E-B0F4EB2E9706}|Business\\Business.csproj|solutionrelative:business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8CB6E9-1BFB-4732-873E-B0F4EB2E9706}|Business\\Business.csproj|c:\\users\\vivobook\\desktop\\petshop\\business\\exceptions\\filesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8CB6E9-1BFB-4732-873E-B0F4EB2E9706}|Business\\Business.csproj|solutionrelative:business\\exceptions\\filesizeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8CB6E9-1BFB-4732-873E-B0F4EB2E9706}|Business\\Business.csproj|c:\\users\\vivobook\\desktop\\petshop\\business\\exceptions\\contenttypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8CB6E9-1BFB-4732-873E-B0F4EB2E9706}|Business\\Business.csproj|solutionrelative:business\\exceptions\\contenttypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7F20A6-DD18-4731-85F8-3E93E4658336}|Core\\Core.csproj|c:\\users\\vivobook\\desktop\\petshop\\core\\repostoryabstarcts\\isliderrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7F20A6-DD18-4731-85F8-3E93E4658336}|Core\\Core.csproj|solutionrelative:core\\repostoryabstarcts\\isliderrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7F20A6-DD18-4731-85F8-3E93E4658336}|Core\\Core.csproj|c:\\users\\vivobook\\desktop\\petshop\\core\\repostoryabstarcts\\igenericrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7F20A6-DD18-4731-85F8-3E93E4658336}|Core\\Core.csproj|solutionrelative:core\\repostoryabstarcts\\igenericrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7F20A6-DD18-4731-85F8-3E93E4658336}|Core\\Core.csproj|c:\\users\\vivobook\\desktop\\petshop\\core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7F20A6-DD18-4731-85F8-3E93E4658336}|Core\\Core.csproj|solutionrelative:core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E5D5C0-FDF1-4637-8481-EA750D830466}|Data\\Data.csproj|c:\\users\\vivobook\\desktop\\petshop\\data\\migrations\\20240522030134_createslidertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E5D5C0-FDF1-4637-8481-EA750D830466}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240522030134_createslidertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VivoBook\\Desktop\\PetShop\\PetShop\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "PetShop\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VivoBook\\Desktop\\PetShop\\PetShop\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "PetShop\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4BAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T16:07:41.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\VivoBook\\Desktop\\PetShop\\PetShop\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "PetShop\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\VivoBook\\Desktop\\PetShop\\PetShop\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "PetShop\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAEAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T01:07:57.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\VivoBook\\Desktop\\PetShop\\PetShop\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "PetShop\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\VivoBook\\Desktop\\PetShop\\PetShop\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "PetShop\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAFQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:42:20.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\VivoBook\\Desktop\\PetShop\\PetShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PetShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\VivoBook\\Desktop\\PetShop\\PetShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PetShop\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T16:10:01.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminLoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\VivoBook\\Desktop\\PetShop\\PetShop\\Areas\\Admin\\ViewModels\\AdminLoginVM.cs",
+              "RelativeDocumentMoniker": "PetShop\\Areas\\Admin\\ViewModels\\AdminLoginVM.cs",
+              "ToolTip": "C:\\Users\\VivoBook\\Desktop\\PetShop\\PetShop\\Areas\\Admin\\ViewModels\\AdminLoginVM.cs",
+              "RelativeToolTip": "PetShop\\Areas\\Admin\\ViewModels\\AdminLoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T12:44:23.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\VivoBook\\Desktop\\PetShop\\PetShop\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "PetShop\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\VivoBook\\Desktop\\PetShop\\PetShop\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "PetShop\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T03:35:00.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\VivoBook\\Desktop\\PetShop\\PetShop\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "PetShop\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\VivoBook\\Desktop\\PetShop\\PetShop\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "PetShop\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T03:03:44.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\VivoBook\\Desktop\\PetShop\\PetShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PetShop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\VivoBook\\Desktop\\PetShop\\PetShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PetShop\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:50:18.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VivoBook\\Desktop\\PetShop\\PetShop\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeDocumentMoniker": "PetShop\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VivoBook\\Desktop\\PetShop\\PetShop\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "RelativeToolTip": "PetShop\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T13:13:34.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SliderService.cs",
+              "DocumentMoniker": "C:\\Users\\VivoBook\\Desktop\\PetShop\\Business\\Services\\Concretes\\SliderService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Concretes\\SliderService.cs",
+              "ToolTip": "C:\\Users\\VivoBook\\Desktop\\PetShop\\Business\\Services\\Concretes\\SliderService.cs",
+              "RelativeToolTip": "Business\\Services\\Concretes\\SliderService.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T02:16:58.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VivoBook\\Desktop\\PetShop\\PetShop\\appsettings.json",
+              "RelativeDocumentMoniker": "PetShop\\appsettings.json",
+              "ToolTip": "C:\\Users\\VivoBook\\Desktop\\PetShop\\PetShop\\appsettings.json",
+              "RelativeToolTip": "PetShop\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T02:57:10.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VivoBook\\Desktop\\PetShop\\PetShop\\Program.cs",
+              "RelativeDocumentMoniker": "PetShop\\Program.cs",
+              "ToolTip": "C:\\Users\\VivoBook\\Desktop\\PetShop\\PetShop\\Program.cs",
+              "RelativeToolTip": "PetShop\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:38:36.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GenericRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\VivoBook\\Desktop\\PetShop\\Data\\ReopostoryConcretes\\GenericRepostory.cs",
+              "RelativeDocumentMoniker": "Data\\ReopostoryConcretes\\GenericRepostory.cs",
+              "ToolTip": "C:\\Users\\VivoBook\\Desktop\\PetShop\\Data\\ReopostoryConcretes\\GenericRepostory.cs",
+              "RelativeToolTip": "Data\\ReopostoryConcretes\\GenericRepostory.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:03:50.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\VivoBook\\Desktop\\PetShop\\PetShop\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "RelativeDocumentMoniker": "PetShop\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "ToolTip": "C:\\Users\\VivoBook\\Desktop\\PetShop\\PetShop\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "RelativeToolTip": "PetShop\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T13:23:14.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\VivoBook\\Desktop\\PetShop\\PetShop\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeDocumentMoniker": "PetShop\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ToolTip": "C:\\Users\\VivoBook\\Desktop\\PetShop\\PetShop\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeToolTip": "PetShop\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T13:13:32.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\VivoBook\\Desktop\\PetShop\\Core\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\VivoBook\\Desktop\\PetShop\\Core\\Models\\Slider.cs",
+              "RelativeToolTip": "Core\\Models\\Slider.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:46:38.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240522055435_createAppUserTable.cs",
+              "DocumentMoniker": "C:\\Users\\VivoBook\\Desktop\\PetShop\\Data\\Migrations\\20240522055435_createAppUserTable.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240522055435_createAppUserTable.cs",
+              "ToolTip": "C:\\Users\\VivoBook\\Desktop\\PetShop\\Data\\Migrations\\20240522055435_createAppUserTable.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240522055435_createAppUserTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T05:54:35.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\VivoBook\\Desktop\\PetShop\\PetShop\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PetShop\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\VivoBook\\Desktop\\PetShop\\PetShop\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PetShop\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T03:32:53.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\VivoBook\\Desktop\\PetShop\\PetShop\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PetShop\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\VivoBook\\Desktop\\PetShop\\PetShop\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PetShop\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T03:33:12.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PetShop.csproj",
+              "DocumentMoniker": "C:\\Users\\VivoBook\\Desktop\\PetShop\\PetShop\\PetShop.csproj",
+              "RelativeDocumentMoniker": "PetShop\\PetShop.csproj",
+              "ToolTip": "C:\\Users\\VivoBook\\Desktop\\PetShop\\PetShop\\PetShop.csproj",
+              "RelativeToolTip": "PetShop\\PetShop.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T03:00:24.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240522030134_createSliderTable.cs",
+              "DocumentMoniker": "C:\\Users\\VivoBook\\Desktop\\PetShop\\Data\\Migrations\\20240522030134_createSliderTable.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240522030134_createSliderTable.cs",
+              "ToolTip": "C:\\Users\\VivoBook\\Desktop\\PetShop\\Data\\Migrations\\20240522030134_createSliderTable.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240522030134_createSliderTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T03:01:34.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ISliderService.cs",
+              "DocumentMoniker": "C:\\Users\\VivoBook\\Desktop\\PetShop\\Business\\Services\\Abstarcts\\ISliderService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\Abstarcts\\ISliderService.cs",
+              "ToolTip": "C:\\Users\\VivoBook\\Desktop\\PetShop\\Business\\Services\\Abstarcts\\ISliderService.cs",
+              "RelativeToolTip": "Business\\Services\\Abstarcts\\ISliderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:14:58.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Business.csproj",
+              "DocumentMoniker": "C:\\Users\\VivoBook\\Desktop\\PetShop\\Business\\Business.csproj",
+              "RelativeDocumentMoniker": "Business\\Business.csproj",
+              "ToolTip": "C:\\Users\\VivoBook\\Desktop\\PetShop\\Business\\Business.csproj",
+              "RelativeToolTip": "Business\\Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T02:29:37.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FileSizeException.cs",
+              "DocumentMoniker": "C:\\Users\\VivoBook\\Desktop\\PetShop\\Business\\Exceptions\\FileSizeException.cs",
+              "RelativeDocumentMoniker": "Business\\Exceptions\\FileSizeException.cs",
+              "ToolTip": "C:\\Users\\VivoBook\\Desktop\\PetShop\\Business\\Exceptions\\FileSizeException.cs",
+              "RelativeToolTip": "Business\\Exceptions\\FileSizeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:27:24.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SliderRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\VivoBook\\Desktop\\PetShop\\Data\\ReopostoryConcretes\\SliderRepostory.cs",
+              "RelativeDocumentMoniker": "Data\\ReopostoryConcretes\\SliderRepostory.cs",
+              "ToolTip": "C:\\Users\\VivoBook\\Desktop\\PetShop\\Data\\ReopostoryConcretes\\SliderRepostory.cs",
+              "RelativeToolTip": "Data\\ReopostoryConcretes\\SliderRepostory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:04:51.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ContentTypeException.cs",
+              "DocumentMoniker": "C:\\Users\\VivoBook\\Desktop\\PetShop\\Business\\Exceptions\\ContentTypeException.cs",
+              "RelativeDocumentMoniker": "Business\\Exceptions\\ContentTypeException.cs",
+              "ToolTip": "C:\\Users\\VivoBook\\Desktop\\PetShop\\Business\\Exceptions\\ContentTypeException.cs",
+              "RelativeToolTip": "Business\\Exceptions\\ContentTypeException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:24:22.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ISliderRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\VivoBook\\Desktop\\PetShop\\Core\\RepostoryAbstarcts\\ISliderRepostory.cs",
+              "RelativeDocumentMoniker": "Core\\RepostoryAbstarcts\\ISliderRepostory.cs",
+              "ToolTip": "C:\\Users\\VivoBook\\Desktop\\PetShop\\Core\\RepostoryAbstarcts\\ISliderRepostory.cs",
+              "RelativeToolTip": "Core\\RepostoryAbstarcts\\ISliderRepostory.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:02:35.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IGenericRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\VivoBook\\Desktop\\PetShop\\Core\\RepostoryAbstarcts\\IGenericRepostory.cs",
+              "RelativeDocumentMoniker": "Core\\RepostoryAbstarcts\\IGenericRepostory.cs",
+              "ToolTip": "C:\\Users\\VivoBook\\Desktop\\PetShop\\Core\\RepostoryAbstarcts\\IGenericRepostory.cs",
+              "RelativeToolTip": "Core\\RepostoryAbstarcts\\IGenericRepostory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T02:00:08.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\VivoBook\\Desktop\\PetShop\\Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\VivoBook\\Desktop\\PetShop\\Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:47:24.251Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
